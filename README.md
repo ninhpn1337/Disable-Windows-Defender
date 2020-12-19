@@ -1,2 +1,2 @@
 # Disable-Windows-Defender
-Disable Windows Defender All Version (
+Disable Windows Defender All Version 
